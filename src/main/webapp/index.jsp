@@ -47,7 +47,7 @@
 				      </li>
 				    </ul>
 				    
-				    <form class="form-inline">
+				    <form class="form-inline" action="Autenticacao" method="post">
 					  <div class="form-group mb-2">
 					    <label for="staticEmail2" class="sr-only">Email</label>
 					    <input type="text" class="form-control" id="staticEmail2" value="email@example.com">
